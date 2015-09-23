@@ -1,16 +1,158 @@
+/*********************
+ GENERAL MOBILE DESIGN
+**********************/
 
-a {
-  text-decoration: none;
+body {
+  font-family: 'Open Sans', sans-serif;
 }
 
 #wrapper {
     max-width: 940px
     margin: 0 auto;
     padding: 0 5%;
- }
-
-#logo {
-  text-align: center;
-  margin: 0;
 }
-/*mobile design*/
+
+a {
+    text-decoration: none;
+}
+
+img {
+  max-width: 100%; /*stays width of parent container*/
+}
+
+/*********************
+ HEADING
+**********************/
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0  0; /*TRBL*/
+  width: 100%;
+}
+
+#glogo {
+ text-align: center;
+ margin: 0;
+}
+
+h1 {
+  font-family: 'Changa One', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0; /*T L B*/
+  font-weight: normal;
+}
+
+
+/*********************
+ NAVIGATION
+**********************/
+
+nav {
+  text-align: center
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+}
+
+/*********************
+ FOOTER
+**********************/
+
+
+footer {
+  font-size:  0.75em;
+  text-align: center;
+  clear; both;
+  padding-top: 50px;
+  color: #ccc
+}
+
+.social-icon {
+  width: 75px;
+  height: 75px;
+  margin: 0 5px;
+}
+
+
+/*********************
+ PAGE PORTFOLIO
+**********************/
+
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none; /*removes bullets*/
+}
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  color: #000;
+}
+
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size:0.75em;
+  color: #bdc3c7
+}
+
+
+/*********************
+ COLORS
+**********************/
+
+
+body {
+  background-color: #fff; /* site body */
+  color: #999;
+}
+
+header {
+  background: #000; /* header bar color black*/
+  border-color: #000;
+}
+
+nav {
+  background: #b2cccc; /* navigation bar */
+}
+
+h1, h2, h3 {    /*logo text*/
+  color: black;
+}
+
+a {
+  color: #000; /*header text color*/
+}
+
+nav a, nav a:visited {   /*navigation text color*/
+  color: #000;
+}
+
+nav a.selected, nav a:hover {  /*to indicate when a user is on a page*/
+  color: #c00;
+}
