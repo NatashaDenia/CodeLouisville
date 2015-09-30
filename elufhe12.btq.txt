@@ -1,0 +1,45 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    Front end performance optimization.docx
+#	modified:   about.html
+#	new file:   contact.html
+#	modified:   css/main.css
+#	new file:   css/responsive.css
+#	new file:   faq.html
+#	new file:   img/.DS_Store
+#	new file:   img/2NOT1-logo-and-Mission-300x228.jpg
+#	deleted:    img/Koala.jpg
+#	new file:   img/One boy and Johnny.jpg
+#	new file:   img/about.html
+#	new file:   img/contact.html
+#	new file:   img/css/main.css
+#	new file:   img/css/normalize.css
+#	new file:   img/facebook-wrap.png
+#	new file:   img/img/.DS_Store
+#	new file:   img/img/facebook-wrap.png
+#	new file:   img/img/facebook.png
+#	new file:   img/img/mail.png
+#	new file:   img/img/nick.jpg
+#	new file:   img/img/numbers-01.jpg
+#	new file:   img/img/numbers-02.jpg
+#	new file:   img/img/numbers-06.jpg
+#	new file:   img/img/numbers-09.jpg
+#	new file:   img/img/numbers-12.jpg
+#	new file:   img/img/phone.png
+#	new file:   img/img/twitter-wrap.png
+#	new file:   img/img/twitter.png
+#	new file:   img/index.html
+#	new file:   img/mail.png
+#	new file:   img/phone.png
+#	new file:   img/twitter-wrap.png
+#	new file:   img/twitter.png
+#	modified:   index.html
+#	new file:   js/app.js
+#	new file:   js/scripts.js
+#
+
