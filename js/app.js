@@ -12,3 +12,6 @@ $("button").click(function(){ /*Events*/
   //3.2, Get rid of button
   $(this).remove();  /*Manipulation*/
 });
+
+// MINIFIED BUT UNSURE WHERE TO PLACE IT PER VIDEO
+ // $(".answer span").hide();$(".answer").append("<butt​on>Reveal Answer.</button>");$("button").click(fun​ction(){$(".answer span").show();$(this).remove()});
